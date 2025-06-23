@@ -26,8 +26,6 @@ In immersive media systems, I work on optimizing 360-degree video compression us
 My research interests also include <strong>computer vision</strong>, <strong>neural scene understanding</strong>, and <strong>human-centered AI</strong>. I focus on applying models such as <strong>transformers</strong>, <strong>autoencoders</strong>, and <strong>neural rendering frameworks</strong> to develop perceptually aware, efficient, and socially responsible technologies. You can find my publication record on  
 <a href='https://scholar.google.com/citations?user=cdj_IUEAAAAJ'><strong>Google Scholar</strong></a>:<br><a href='https://scholar.google.com/citations?user=cdj_IUEAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3Dcdj_IUEAAAAJ&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 
-# 🔥 News
-
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Multimedia 2020</div><img src='images/sae.png' alt="sym" width="100%"></div></div>
@@ -69,13 +67,11 @@ My research interests also include <strong>computer vision</strong>, <strong>neu
 </div>
 </div>
 
-# 🎖 Honors and Awards
 
 # 📖 Educations
 - *2019.08 - 2025.12 (Expected)*, Ph.D. in Computer Science, George Mason University , Fairfax, Virginia, United States
 - *2016.01 - 2017.05*, Master in Electrical Engineering, George Washington University, Washington D.C., United States
 
-# 💬 Invited Talks
 
 # 💻 Professional Experience
 - *2019.09 – Present*, Graduate Teaching Assistant Lead, George Mason University, USA  
