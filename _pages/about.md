@@ -17,14 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m Jin Zhou, a Ph.D. candidate in Computer Science at George Mason University. My research bridges Human-Computer Interaction (HCI) and immersive media system optimization.
+I’m Jin Zhou, a Ph.D. candidate in Computer Science at George Mason University. My research bridges Human-Computer Interaction (HCI) and immersive media systems, focusing on ethical AI, user research, and efficient visual computing.
 
-In HCI, I investigate the ethical and psychological challenges of harassment in social VR and metaverse environments. One line of work focuses on the design of AI-driven detection systems, using Transformer models, behavioral modeling, and WebXR-based deployments to support fairness and safety. Another line addresses the psychological impact of harassment in immersive spaces, supported by large-scale surveys and user studies conducted within a custom-built interactive social VR platform developed in Unity and deployed on VR headsets.
+🧠 HCI & VR Ethics: Investigate harassment in social VR through AI-driven behavior detection and psychological analysis; conduct large-scale user studies in Unity-based immersive platforms.
 
-In immersive media systems, I work on optimizing 360-degree video compression using spherical CNNs and autoencoders, and improving dynamic 3D scene representations such as NeRF and other 3D reconstruction models through model quantization, compression-aware training, and perceptual quality-preserving techniques. My work aims to balance transmission efficiency with visual fidelity, and has been published at venues like ACM Multimedia and IEEE VR.
+🎥 3D Visual Computing & Compression: Enhance 360° video and dynamic 3D scene representation (e.g., NeRF, 360-degree video system) using autoencoder, quantization, perceptual modeling, and transmission-aware techniques.
 
-My research interests also include <strong>computer vision</strong>, <strong>neural scene understanding</strong>, and <strong>human-centered AI</strong>. I focus on applying models such as <strong>transformers</strong>, <strong>autoencoders</strong>, and <strong>neural rendering frameworks</strong> to develop perceptually aware, efficient, and socially responsible technologies. You can find my publication record on  
-<a href='https://scholar.google.com/citations?user=cdj_IUEAAAAJ'><strong>Google Scholar</strong></a>:<br><a href='https://scholar.google.com/citations?user=cdj_IUEAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3Dcdj_IUEAAAAJ&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+🔍 Core Interests: Human-computer interaction, user research, neural scene understanding, computer vision, and socially responsible AI systems.
+
+You can find my publication on  <strong>Google Scholar</strong></a>:<br><a href='https://scholar.google.com/citations?user=cdj_IUEAAAAJ'>
+
 
 # 📝 Publications 
 
