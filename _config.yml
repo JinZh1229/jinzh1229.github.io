@@ -9,7 +9,7 @@
 title                    : "Jin Zhou"
 description              : "I’m Jin Zhou, a Ph.D. candidate in Computer Science at George Mason University. My research combines HCI and immersive media systems. I study harassment in social VR, both through ethical AI system design and large-scale psychological user studies in Unity-based VR platforms. I also work on optimizing 360° video and 3D scene representations (e.g., NeRF) using techniques like model quantization and compression-aware training to improve transmission efficiency without sacrificing visual quality. My work has been published at ACM Multimedia and IEEE VR."
 #repository               : "SamanthaZH/samanthazh.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
