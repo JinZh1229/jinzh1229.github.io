@@ -23,7 +23,7 @@ In HCI, I investigate the ethical and psychological challenges of harassment in 
 
 In immersive media systems, I work on optimizing 360-degree video compression using spherical CNNs and autoencoders, and improving dynamic 3D scene representations such as NeRF and other 3D reconstruction models through model quantization, compression-aware training, and perceptual quality-preserving techniques. My work aims to balance transmission efficiency with visual fidelity, and has been published at venues like ACM Multimedia and IEEE VR.
 
-My research interests also include <strong>computer vision</strong>, <strong>neural scene understanding</strong>, and <strong>human-centered AI</strong>. I focus on applying models such as <strong>transformers</strong>, <strong>autoencoders</strong>, and <strong>neural rendering frameworks</strong> to develop perceptually aware, efficient, and socially responsible technologies. You can find my publication record on  
+My research interests also include <strong>computer vision</strong>, <strong>neural radiance field understanding</strong>, and <strong>human-centered AI</strong>. I focus on applying models such as <strong>transformers</strong>, <strong>autoencoders</strong>, and <strong>neural radiance field frameworks</strong> to develop perceptually aware, efficient, and socially responsible technologies. You can find my publication record on  
 <a href='https://scholar.google.com/citations?user=cdj_IUEAAAAJ'><strong>Google Scholar</strong></a>:<br><a href='https://scholar.google.com/citations?user=cdj_IUEAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3Dcdj_IUEAAAAJ&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 
 
