@@ -84,13 +84,13 @@ My research interests also include <strong>computer vision</strong>, <strong>neu
 
 
 # 💻 Professional Experience
-- *2019.09 – Present*, Graduate Teaching Assistant Lead, George Mason University, USA  
+- *2019.09 – Present*, **Graduate Teaching Assistant Lead**, George Mason University, USA  
   Oversaw and led a team of over 10 teaching assistants across multiple undergraduate programming courses.  
   Coordinated weekly TA training, maintained grading consistency, and facilitated team communication with faculty.  
   Designed and deployed Java-based lab materials and tutorials focused on data structures, algorithms, and software design.  
   Acted as the primary point of contact for curriculum support and student feedback in large-scale CS courses (100+ students).
 
-- *2017.07 – 2019.03*, Data Architect / Engineer, Noetics Global Technologies, USA  
+- *2017.07 – 2019.03*, **Data Architect/Engineer**, Noetics Global Technologies, USA  
   Collaborated with technical specialists and engineering teams to design a distributed enterprise application with an optimized MySQL backend.  
   Crafted advanced SQL queries and restructured databases to support large-scale data analysis and extract business-critical insights.  
   Managed a team of five interns, overseeing project timelines and mentoring on foundational data engineering tasks.
