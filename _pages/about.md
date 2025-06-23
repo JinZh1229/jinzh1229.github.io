@@ -36,8 +36,6 @@ My research interests also include <strong>computer vision</strong>, <strong>neu
 
 **Jin Zhou**, Na Li, Yao Liu, Shuochao Yao, Songqing Chen
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=cdj_IUEAAAAJ&citation_for_view=cdj_IUEAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
 - Proposed a **spherical CNN autoencoder framework** designed specifically for 360° video, addressing the geometric distortion challenges of spherical content.
 - Introduced two key optimizations—**partial mesh processing** and **compressive sensing**—to improve encoding efficiency while significantly reducing computational cost and preserving perceptual quality.
 - Achieved a **PSNR gain up to 40 dB**, outperforming standard 2D autoencoders by over **260%**, making the method well-suited for real-time immersive video streaming in VR/AR applications.
@@ -50,9 +48,6 @@ My research interests also include <strong>computer vision</strong>, <strong>neu
 
 [**HardenVR: Harassment Detection in Social Virtual Reality**](https://doi.org/10.1109/VR58804.2024.00033)  
 **Na Wang**, **Jin Zhou**, Jie Li, Bo Han, Fei Li, Songqing Chen
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&user=cdj_IUEAAAAJ&citation_for_view=cdj_IUEAAAAJ:9yKSN-GCB0IC)  
-<strong><span class='show_paper_citations' data='cdj_IUEAAAAJ:9yKSN-GCB0IC'></span></strong>
 
 - Designed and implemented a real-time detection system for harassment behaviors in social VR using Transformer-based spatiotemporal models.
 - Developed a WebXR-based multi-user simulation platform and released the SAHARA dataset with labeled 3D behavior logs.
@@ -67,12 +62,9 @@ My research interests also include <strong>computer vision</strong>, <strong>neu
 [**Dynamic 6‑DoF Volumetric Video Generation: Software Toolkit and Dataset**](https://doi.org/10.1109/MMSP61759.2024.10743552)  
 **Mufeng Zhu**, Yuan‑Chun Sun, Na Li, **Jin Zhou**, Songqing Chen, Cheng‑Hsin Hsu, Yao Liu  
 
-[**Project & Code**](https://6-dof-dynamic-content-software.github.io/)  
-<strong><span class='show_paper_citations' data='cdj_IUEAAAAJ: dynamic6dof'></span></strong>
-
 - Released a **Blender-Python toolkit** to generate dynamic 6-DoF volumetric datasets from synthetic 3D assets, compatible with both point-cloud and NeRF-based representations.  
 - Constructed a **comprehensive dataset**, including point-cloud sequences and training/testing splits, facilitating fair comparisons across volumetric video models.  
-- Enabled multimedia systems research by delivering an **open-source toolkit and compliant dataset** under asset permissions, supporting benchmarking for practical volumetric streaming :contentReference[oaicite:1]{index=1}.
+- Enabled multimedia systems research by delivering an **open-source toolkit and compliant dataset** under asset permissions, supporting benchmarking for practical volumetric streaming: contentReference[oaicite:1]{index=1}.
 
 </div>
 </div>
