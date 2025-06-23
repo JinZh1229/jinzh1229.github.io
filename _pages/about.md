@@ -17,42 +17,58 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I’m Jin Zhou, a Ph.D. candidate in Computer Science at George Mason University. My research bridges Human-Computer Interaction (HCI) and immersive media system optimization.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+In HCI, I investigate the ethical and psychological challenges of harassment in social VR and metaverse environments. One line of work focuses on the design of AI-driven detection systems, using Transformer models, behavioral modeling, and WebXR-based deployments to support fairness and safety. Another line addresses the psychological impact of harassment in immersive spaces, supported by large-scale surveys and user studies conducted within a custom-built interactive social VR platform developed in Unity and deployed on VR headsets.
 
+In immersive media systems, I work on optimizing 360-degree video compression using spherical CNNs and autoencoders, and improving dynamic 3D scene representations such as NeRF and other 3D reconstruction models through model quantization, compression-aware training, and perceptual quality-preserving techniques. My work aims to balance transmission efficiency with visual fidelity, and has been published at venues like ACM Multimedia and IEEE VR.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+My research interests also include <strong>computer vision</strong>, <strong>neural scene understanding</strong>, and <strong>human-centered AI</strong>. I focus on applying models such as <strong>transformers</strong>, <strong>autoencoders</strong>, and <strong>neural rendering frameworks</strong> to develop perceptually aware, efficient, and socially responsible technologies. You can find my publication record on  
+<a href='https://scholar.google.com/citations?user=cdj_IUEAAAAJ'><strong>Google Scholar</strong></a>:<br>
+<a href='https://scholar.google.com/citations?user=cdj_IUEAAAAJ'>
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3Dcdj_IUEAAAAJ&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Multimedia 2020</div><img src='images/sae.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Exploring Spherical Autoencoder for Spherical Video Content Processing](https://par.nsf.gov/servlets/purl/10391202)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Jin Zhou**, Na Li, Yao Liu, Shuochao Yao, Songqing Chen
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=cdj_IUEAAAAJ&citation_for_view=cdj_IUEAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- Proposed a **spherical CNN autoencoder framework** designed specifically for 360° video, addressing the geometric distortion challenges of spherical content.
+- Introduced two key optimizations—**partial mesh processing** and **compressive sensing**—to improve encoding efficiency while significantly reducing computational cost and preserving perceptual quality.
+- Achieved a **PSNR gain up to 40 dB**, outperforming standard 2D autoencoders by over **260%**, making the method well-suited for real-time immersive video streaming in VR/AR applications.
+
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VR 2024</div><img src='images/hardenvr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**HardenVR: Harassment Detection in Social Virtual Reality**](https://doi.org/10.1109/VR58804.2024.00033)  
+**Na Wang**, **Jin Zhou**, Jie Li, Bo Han, Fei Li, Songqing Chen
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&user=cdj_IUEAAAAJ&citation_for_view=cdj_IUEAAAAJ:9yKSN-GCB0IC)  
+<strong><span class='show_paper_citations' data='cdj_IUEAAAAJ:9yKSN-GCB0IC'></span></strong>
+
+- Designed and implemented a real-time detection system for harassment behaviors in social VR using Transformer-based spatiotemporal models.
+- Developed a WebXR-based multi-user simulation platform and released the SAHARA dataset with labeled 3D behavior logs.
+- Achieved 98.4% detection accuracy and validated system performance through structured user studies and empirical evaluation.
+
+</div>
+</div>
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.08 - 2025.12 (Expected)*, Ph.D. in Computer Science, George Mason University , Fairfax, Virginia, United States
+- *2016.01 - 2017.05*, Master in Electrical Engineering, George Washington University, Washington D.C., United States
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
+# 💻 Professional Experience
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
