@@ -23,7 +23,7 @@ In HCI, I investigate the ethical and psychological challenges of harassment in 
 
 In immersive media systems, I work on optimizing 360-degree video compression using spherical CNNs and autoencoders, and improving dynamic 3D scene representations such as NeRF and other 3D reconstruction models through model quantization, compression-aware training, and perceptual quality-preserving techniques. My work aims to balance transmission efficiency with visual fidelity, and has been published at venues like ACM Multimedia and IEEE VR.
 
-My research interests also include <strong>computer vision</strong>, <strong>neural radiance field understanding</strong>, and <strong>human-centered AI</strong>. I focus on applying models such as <strong>transformers</strong>, <strong>autoencoders</strong>, and <strong>neural radiance field frameworks</strong> to develop perceptually aware, efficient, and socially responsible technologies. You can find my publication record on  
+My research interests also include <strong>computer vision</strong>, <strong>neural scene understanding</strong>, and <strong>human-centered AI</strong>. I focus on applying models such as <strong>transformers</strong>, <strong>autoencoders</strong>, and <strong>neural rendering frameworks</strong> to develop perceptually aware, efficient, and socially responsible technologies. You can find my publication record on  
 <a href='https://scholar.google.com/citations?user=cdj_IUEAAAAJ'><strong>Google Scholar</strong></a>:<br><a href='https://scholar.google.com/citations?user=cdj_IUEAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3Dcdj_IUEAAAAJ&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 
 
@@ -33,7 +33,6 @@ My research interests also include <strong>computer vision</strong>, <strong>neu
 <div class='paper-box-text' markdown="1">
 
 [Exploring Spherical Autoencoder for Spherical Video Content Processing](https://par.nsf.gov/servlets/purl/10391202)
-
 **Jin Zhou**, Na Li, Yao Liu, Shuochao Yao, Songqing Chen
 
 - Proposed a **spherical CNN autoencoder framework** designed specifically for 360° video, addressing the geometric distortion challenges of spherical content.
@@ -64,7 +63,7 @@ My research interests also include <strong>computer vision</strong>, <strong>neu
 
 - Released a **Blender-Python toolkit** to generate dynamic 6-DoF volumetric datasets from synthetic 3D assets, compatible with both point-cloud and NeRF-based representations.  
 - Constructed a **comprehensive dataset**, including point-cloud sequences and training/testing splits, facilitating fair comparisons across volumetric video models.  
-- Enabled multimedia systems research by delivering an **open-source toolkit and compliant dataset** under asset permissions, supporting benchmarking for practical volumetric streaming: contentReference[oaicite:1]{index=1}.
+- Enabled multimedia systems research by delivering an **open-source toolkit and compliant dataset** under asset permissions, supporting benchmarking for practical volumetric streaming :contentReference[oaicite:1]{index=1}.
 
 </div>
 </div>
@@ -76,13 +75,13 @@ My research interests also include <strong>computer vision</strong>, <strong>neu
 
 
 # 💻 Professional Experience
-- *2019.09 – Present*, **Graduate Teaching Assistant Lead**, George Mason University, USA  
+- *2019.09 – Present*, Graduate Teaching Assistant Lead, George Mason University, USA  
   Oversaw and led a team of over 10 teaching assistants across multiple undergraduate programming courses.  
   Coordinated weekly TA training, maintained grading consistency, and facilitated team communication with faculty.  
   Designed and deployed Java-based lab materials and tutorials focused on data structures, algorithms, and software design.  
   Acted as the primary point of contact for curriculum support and student feedback in large-scale CS courses (100+ students).
 
-- *2017.07 – 2019.03*, **Data Architect/Engineer**, Noetics Global Technologies, USA  
+- *2017.07 – 2019.03*, Data Architect / Engineer, Noetics Global Technologies, USA  
   Collaborated with technical specialists and engineering teams to design a distributed enterprise application with an optimized MySQL backend.  
   Crafted advanced SQL queries and restructured databases to support large-scale data analysis and extract business-critical insights.  
   Managed a team of five interns, overseeing project timelines and mentoring on foundational data engineering tasks.
