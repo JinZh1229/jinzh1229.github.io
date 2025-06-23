@@ -77,8 +77,6 @@ My research interests also include <strong>computer vision</strong>, <strong>neu
 </div>
 </div>
 
-{%- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**%}
-
 
 # 📖 Educations
 - *2019.08 - 2025.12 (Expected)*, Ph.D. in Computer Science, George Mason University , Fairfax, Virginia, United States
