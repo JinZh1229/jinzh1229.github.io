@@ -1,20 +1,20 @@
 name: no Citation Data
 
-#on: 
-# page_build: 
-# schedule:
-#  - cron:  '0 8 * * *'
+on: 
+ page_build: 
+ schedule:
+  - cron:  '0 8 * * *'
 
-#jobs:
-#  build:
-#    runs-on: ubuntu-latest
-#    steps:
-#    - uses: actions/checkout@v2
-#    - name: Install Reqs
-#      run: |
-#        sudo apt-get install python3-setuptools
-#    - name: Run
-#      run: |
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Install Reqs
+      run: |
+        sudo apt-get install python3-setuptools
+    - name: Run
+      run: |
 #        cd ./google_scholar_crawler
 #        pip3 install -r requirements.txt
 #        python3 main.py
