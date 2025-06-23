@@ -25,7 +25,8 @@ I’m Jin Zhou, a Ph.D. candidate in Computer Science at George Mason University
 
 🔍 Core Interests: Human-computer interaction, user research, neural scene understanding, computer vision, and socially responsible AI systems.
 
-You can find my publication on  <strong>Google Scholar</strong></a>:<br><a href='https://scholar.google.com/citations?user=cdj_IUEAAAAJ'>
+You can find my publication on  
+<a href='https://scholar.google.com/citations?user=cdj_IUEAAAAJ'><strong>Google Scholar</strong></a>:<br><a href='https://scholar.google.com/citations?user=cdj_IUEAAAAJ'>
 
 
 # 📝 Publications 
@@ -87,7 +88,7 @@ You can find my publication on  <strong>Google Scholar</strong></a>:<br><a href=
   Crafted advanced SQL queries and restructured databases to support large-scale data analysis and extract business-critical insights.  
   Managed a team of five interns, overseeing project timelines and mentoring on foundational data engineering tasks.
 
-# Acknowledgement
+
 <p style="font-size: 0.8em; text-align: center;">
   Built with ❤️ using the <a href="https://github.com/RayeRen/acad-homepage" target="_blank">acad-homepage</a> template by RayeRen.
 </p>
