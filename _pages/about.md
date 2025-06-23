@@ -84,3 +84,8 @@ My research interests also include <strong>computer vision</strong>, <strong>neu
   Collaborated with technical specialists and engineering teams to design a distributed enterprise application with an optimized MySQL backend.  
   Crafted advanced SQL queries and restructured databases to support large-scale data analysis and extract business-critical insights.  
   Managed a team of five interns, overseeing project timelines and mentoring on foundational data engineering tasks.
+
+# Acknowledgement
+<p style="font-size: 0.8em; text-align: center;">
+  Built with ❤️ using the <a href="https://github.com/RayeRen/acad-homepage" target="_blank">acad-homepage</a> template by RayeRen.
+</p>
