@@ -49,9 +49,9 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 [**HardenVR: Harassment Detection in Social Virtual Reality**](https://doi.org/10.1109/VR58804.2024.00033)  
 **Na Wang**, **Jin Zhou**, Jie Li, Bo Han, Fei Li, Songqing Chen
 
-- Designed and implemented a real-time detection system for harassment behaviors in social VR using Transformer-based spatiotemporal models.
-- Developed a WebXR-based multi-user simulation platform and released the SAHARA dataset with labeled 3D behavior logs.
-- Achieved 98.4% detection accuracy and validated system performance through structured user studies and empirical evaluation.
+- Designed and implemented a **detection system for harassment behaviors** in social VR using **Transformer-based spatiotemporal models**.
+- Developed a **WebXR-based** multi-user simulation platform and released the SAHARA dataset with labeled 3D behavior logs.
+- Achieved **98.4% detection accuracy** and validated system performance through structured user studies and empirical evaluation.
 
 </div>
 </div>
