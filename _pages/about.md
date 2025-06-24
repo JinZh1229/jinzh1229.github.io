@@ -34,6 +34,7 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 <div class='paper-box-text' markdown="1">
 
 [Exploring Spherical Autoencoder for Spherical Video Content Processing](https://par.nsf.gov/servlets/purl/10391202)
+
 **Jin Zhou**, Na Li, Yao Liu, Shuochao Yao, Songqing Chen
 
 - Proposed a **spherical CNN autoencoder framework** designed specifically for 360° video, addressing the geometric distortion challenges of spherical content.
@@ -47,6 +48,7 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 <div class='paper-box-text' markdown="1">
 
 [**HardenVR: Harassment Detection in Social Virtual Reality**](https://doi.org/10.1109/VR58804.2024.00033)  
+
 **Na Wang**, **Jin Zhou**, Jie Li, Bo Han, Fei Li, Songqing Chen
 
 - Designed and implemented a **detection system for harassment behaviors** in social VR using **Transformer-based spatiotemporal models**.
@@ -60,6 +62,7 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 <div class='paper-box-text' markdown="1">
 
 [**Dynamic 6‑DoF Volumetric Video Generation: Software Toolkit and Dataset**](https://doi.org/10.1109/MMSP61759.2024.10743552)  
+
 **Mufeng Zhu**, Yuan‑Chun Sun, Na Li, **Jin Zhou**, Songqing Chen, Cheng‑Hsin Hsu, Yao Liu  
 
 - Released a **Blender-Python toolkit** to generate dynamic 6-DoF volumetric datasets from synthetic 3D assets, compatible with both point-cloud and NeRF-based representations.  
