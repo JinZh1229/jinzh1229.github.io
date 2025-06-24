@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m Jin Zhou, a Ph.D. candidate in Computer Science at George Mason University. My research bridges Human-Computer Interaction (HCI) and immersive media systems, focusing on ethical AI, user research, and efficient visual computing.
+I’m Jin Zhou, a Ph.D. candidate in Computer Science at George Mason University. Advised by **Dr.Songqing Chen**. My research focuses on Human-Computer Interaction (HCI) and the optimization of immersive multimedia systems, with a particular emphasis on ethical AI, user research, and efficient visual computing.
 
 🧠 HCI & VR Ethics: Investigate harassment in social VR through AI-driven behavior detection and psychological analysis; conduct large-scale user studies in Unity-based immersive platforms.
 
 🎥 3D Visual Computing & Compression: Enhance 360° video and dynamic 3D scene representation (e.g., NeRF, 360-degree video system) using autoencoder, quantization, perceptual modeling, and transmission-aware techniques.
 
-🔍 Core Interests: Human-computer interaction, user research, neural scene understanding, computer vision, and socially responsible AI systems.
+🔍 Core Interests: Human-computer interaction, user research, neural radiance fields understanding, computer vision, and socially responsible AI systems.
 
 You can find my publication on <a href='https://scholar.google.com/citations?user=cdj_IUEAAAAJ'><strong>Google Scholar</strong></a>:<br><a href='https://scholar.google.com/citations?user=cdj_IUEAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3Dcdj_IUEAAAAJ&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 
