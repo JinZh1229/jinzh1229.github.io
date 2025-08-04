@@ -45,10 +45,26 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VR 2024</div><img src='images/hardenvr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**HardenVR: Harassment Detection in Social Virtual Reality**](https://doi.org/10.1109/VR58804.2024.00033)  
+
+**Na Wang**, **Jin Zhou**, Jie Li, Bo Han, Fei Li, Songqing Chen (Equal contribution)
+
+- Designed and implemented a **detection system for harassment behaviors** in social VR using **Transformer-based spatiotemporal models**.
+- Developed a **WebXR-based** multi-user simulation platform and released the SAHARA dataset with labeled 3D behavior logs.
+- Achieved **98.4% detection accuracy** and validated system performance through structured user studies and empirical evaluation.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Multimedia 2020</div><img src='images/sae.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Exploring Spherical Autoencoder for Spherical Video Content Processing](https://par.nsf.gov/servlets/purl/10391202)
+[**Exploring Spherical Autoencoder for Spherical Video Content Processing**](https://par.nsf.gov/servlets/purl/10391202)
 
 **Jin Zhou**, Na Li, Yao Liu, Shuochao Yao, Songqing Chen
 
@@ -59,19 +75,6 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VR 2024</div><img src='images/hardenvr.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**HardenVR: Harassment Detection in Social Virtual Reality**](https://doi.org/10.1109/VR58804.2024.00033)  
-
-**Na Wang**, **Jin Zhou**, Jie Li, Bo Han, Fei Li, Songqing Chen
-
-- Designed and implemented a **detection system for harassment behaviors** in social VR using **Transformer-based spatiotemporal models**.
-- Developed a **WebXR-based** multi-user simulation platform and released the SAHARA dataset with labeled 3D behavior logs.
-- Achieved **98.4% detection accuracy** and validated system performance through structured user studies and empirical evaluation.
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE MMSP 2024</div><img src='images/mmsp24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
