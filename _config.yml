@@ -59,14 +59,14 @@ author:
   wikipedia        :
 
 
-# Reading Files
+# Reading Files 
+#- google_scholar_crawler
 include:
   - .htaccess
   - _pages
   - files
 exclude:
   - docs
-  - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
