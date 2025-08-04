@@ -30,6 +30,21 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted by IEEE MMSP 2025</div><img src='images/nerfcompressor.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**NeRFCompressor: Enhancing Dynamic Scene Representation for Efficient 6-DoF Object Transportation**] 
+
+**Jin Zhou**, Mufeng Zhu, Yao Liu, Songqing Chen 
+- Designed NeRFCompressor, a model-aware compression system for dynamic NeRF scenes, reducing model size by up to 34× with <2 dB PSNR degradation.
+
+- Engineered a hybrid pipeline combining tensor decomposition, 8-bit quantization, and H.264/YUV444 video encoding for scalable 6-DoF scene transmission.
+
+- Delivered superior rate-distortion performance over VQ-TensoRF on benchmark datasets, enabling real-time rendering on resource-constrained AR/VR platforms.
+  
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Multimedia 2020</div><img src='images/sae.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
