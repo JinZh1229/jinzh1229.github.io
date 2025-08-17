@@ -95,7 +95,7 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 [**A mixed-methods research with users on VR environment**]
 - Built and implemented a custom Unity3D-based VR environment based on a published work for controlled user study scenarios, including real-time behavior logging and survey integration.
 
-- Led a mixed-methods study with 45+ participants, combining quantitative surveys and behavioral rating data with qualitative interviews to capture deeper insights.
+- Led a mixed-methods study with 35+ participants, combining quantitative surveys and behavioral rating data with qualitative interviews to capture deeper insights.
 
 - Designed and executed a complete research workflow: study design, participant recruitment, large-scale data collection, statistical analysis, and synthesis of findings into actionable outcomes.
 
