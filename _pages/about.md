@@ -32,7 +32,7 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Multimedia Asia 2025</div><img src='images/mipcp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**MipCP: Efficient Neural Representations for Dynamic Scene Reconstruction**] 
+**MipCP: Efficient Neural Representations for Dynamic Scene Reconstruction**
 
 **Jin Zhou**, Na Li, Mufeng Zhu, Songqing Chen, Yao Liu 
 
@@ -46,7 +46,7 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE MMSP 2025</div><img src='images/nerfcompressor.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**NeRFCompressor: Enhancing Dynamic Scene Representation for Efficient 6-DoF Object Transportation**] 
+**NeRFCompressor: Enhancing Dynamic Scene Representation for Efficient 6-DoF Object Transportation** 
 
 **Jin Zhou**, Mufeng Zhu, Yao Liu, Songqing Chen 
 
@@ -109,7 +109,7 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 [**A mixed-methods research with users on VR environment**]
 - Built and implemented a custom Unity3D-based VR environment based on a published work for controlled user study scenarios, including real-time behavior logging and survey integration.
 
-- Led a mixed-methods study with 35+ participants, combining quantitative surveys and behavioral rating data with qualitative interviews to capture deeper insights.
+- Led a mixed-methods study with 46+ participants, combining quantitative surveys and behavioral rating data with qualitative interviews to capture deeper insights.
 
 - Designed and executed a complete research workflow: study design, participant recruitment, large-scale data collection, statistical analysis, and synthesis of findings into actionable outcomes.
 
