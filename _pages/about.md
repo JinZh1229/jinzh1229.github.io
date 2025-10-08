@@ -59,6 +59,18 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Underreview by SIGCHI 2026</div><img src='images/gender.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[**A mixed-methods research with users on VR environment**]
+- Built and implemented a custom Unity3D-based VR environment based on a published work for controlled user study scenarios, including real-time behavior logging and survey integration.
+
+- Led a mixed-methods study with 46+ participants, combining quantitative surveys and behavioral rating data with qualitative interviews to capture deeper insights.
+
+- Designed and executed a complete research workflow: study design, participant recruitment, large-scale data collection, statistical analysis, and synthesis of findings into actionable outcomes.
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VR 2024</div><img src='images/hardenvr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -100,18 +112,6 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 - Released a **Blender-Python toolkit** to generate dynamic 6-DoF volumetric datasets from synthetic 3D assets, compatible with both point-cloud and NeRF-based representations.  
 - Constructed a **comprehensive dataset**, including point-cloud sequences and training/testing splits, facilitating fair comparisons across volumetric video models.  
 - Enabled multimedia systems research by delivering an **open-source toolkit and compliant dataset** under asset permissions, supporting benchmarking for practical volumetric streaming: contentReference[oaicite:1]{index=1}.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ongoing Project</div><img src='images/gender.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[**A mixed-methods research with users on VR environment**]
-- Built and implemented a custom Unity3D-based VR environment based on a published work for controlled user study scenarios, including real-time behavior logging and survey integration.
-
-- Led a mixed-methods study with 46+ participants, combining quantitative surveys and behavioral rating data with qualitative interviews to capture deeper insights.
-
-- Designed and executed a complete research workflow: study design, participant recruitment, large-scale data collection, statistical analysis, and synthesis of findings into actionable outcomes.
 
 </div>
 </div>
