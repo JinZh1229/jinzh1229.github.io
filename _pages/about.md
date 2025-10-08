@@ -23,19 +23,33 @@ I’m Jin Zhou, a Ph.D. candidate in Computer Science at George Mason University
 
 🎥 3D Visual Computing & Compression: Enhance 360° video and dynamic 3D scene representation (e.g., NeRF, 360-degree video system) using autoencoder, quantization, perceptual modeling, and transmission-aware techniques.
 
-🔍 Core Interests: Human-computer interaction, user research, neural radiance fields understanding, computer vision, and socially responsible AI systems.
+🔍 Core Interests: Human-computer interaction, user research, understanding neural radiance fields, computer vision, and socially responsible AI systems.
 
 You can find my publication on <a href='https://scholar.google.com/citations?user=cdj_IUEAAAAJ'><strong>Google Scholar</strong></a>:<br><a href='https://scholar.google.com/citations?user=cdj_IUEAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3Dcdj_IUEAAAAJ&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Multimedia Asia 2025</div><img src='images/mipcp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted by IEEE MMSP 2025</div><img src='images/nerfcompressor.png' alt="sym" width="100%"></div></div>
+[**MipCP: Efficient Neural Representations for Dynamic Scene Reconstruction**] 
+
+**Jin Zhou**, Na Li, Mufeng Zhu, Songqing Chen, Yao Liu 
+
+– Proposed a compression-aware NeRF extension combining CP decomposition and video-codec encoding, achieving 154× model compression with around 2 dB quality drop.
+– Designed scalable feature representations (FD₁–FD₃) and integrated deferred shading for high-fidelity dynamic scene rendering.
+– Validated on DyNeRF dataset with PSNR higher than 32 dB and 832 times model-size reduction, demonstrating practical deployment on edge devices.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE MMSP 2025</div><img src='images/nerfcompressor.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**NeRFCompressor: Enhancing Dynamic Scene Representation for Efficient 6-DoF Object Transportation**] 
 
 **Jin Zhou**, Mufeng Zhu, Yao Liu, Songqing Chen 
+
 - Designed NeRFCompressor, a model-aware compression system for dynamic NeRF scenes, reducing model size by up to 34× with <2 dB PSNR degradation.
 
 - Engineered a hybrid pipeline combining tensor decomposition, 8-bit quantization, and H.264/YUV444 video encoding for scalable 6-DoF scene transmission.
