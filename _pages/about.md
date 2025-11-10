@@ -120,7 +120,7 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 
 
 # 📖 Educations
-- *2019.08 - 2025.12 (Expected)*, Ph.D. in Computer Science, George Mason University, Fairfax, Virginia, United States
+- *2019.08 - 2026.05 (Expected)*, Ph.D. in Computer Science, George Mason University, Fairfax, Virginia, United States
 - *2016.01 - 2017.05*, Master in Electrical Engineering, George Washington University, Washington D.C., United States
 
 
