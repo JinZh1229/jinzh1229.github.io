@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m Jin Zhou, a Ph.D. candidate in Computer Science at George Mason University. Advised by **Dr.Songqing Chen**. My research focuses on Human-Computer Interaction (HCI) and the optimization of immersive multimedia systems, with a particular emphasis on ethical AI, user research, and efficient visual computing.
+I’m Jin Zhou, a Ph.D. candidate in Computer Science at George Mason University. Advised by **Dr.Songqing Chen**. My research focuses on Human-Computer Interaction (HCI) and the optimization of immersive multimedia systems, with a particular emphasis on ethical AI, user research, and efficient visual computing. 
+
+**I am open to positions as a Research Engineer, Machine Learning Engineer, and UX Researcher.**
 
 🧠 HCI & VR Ethics: Investigate harassment in social VR through AI-driven behavior detection and psychological analysis; conduct large-scale user studies in Unity-based immersive platforms.
 
@@ -29,16 +31,16 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Multimedia Asia 2025</div><img src='images/mipcp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/mipcp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **MipCP: Efficient Neural Representations for Dynamic Scene Reconstruction**
 
 **Jin Zhou**, Na Li, Mufeng Zhu, Songqing Chen, Yao Liu 
 
-– Proposed a compression-aware NeRF extension combining CP decomposition and video-codec encoding, achieving 154× model compression with around 2 dB quality drop.
-– Designed scalable feature representations (FD₁–FD₃) and integrated deferred shading for high-fidelity dynamic scene rendering.
-– Validated on DyNeRF dataset with PSNR higher than 32 dB and 832 times model-size reduction, demonstrating practical deployment on edge devices.
+– Proposed a compression-aware NeRF extension combining CP decomposition and video-codec encoding, achieving significant compression rate with high reconstruction performance.
+– Designed scalable feature representations and integrated deferred shading for high-fidelity dynamic scene rendering.
+– Validated on the Dynamic reconstruction dataset with outstanding visualization performance and noticeable model-size reduction, demonstrating practical deployment on edge devices.
 
 </div>
 </div>
@@ -59,12 +61,12 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Underreview by SIGCHI 2026</div><img src='images/gender.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/gender.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[**A mixed-methods research with users on VR environment**]
-- Built and implemented a custom Unity3D-based VR environment based on a published work for controlled user study scenarios, including real-time behavior logging and survey integration.
+[**Harassment Isn’t Virtual When It Feels Real: mixed-methods research with users on VR environment**]
+- Built and implemented a custom Unity3D-based VR environment along with an interactable rating system on a social VR simulated platform, including real-time behavior logging and survey integration, post-study interview.
 
-- Led a mixed-methods study with 46+ participants, combining quantitative surveys and behavioral rating data with qualitative interviews to capture deeper insights.
+- Led a mixed-methods study with **60+ online surveys via Qualitrics** and **46+ participants' user study with post-study interview**, combining quantitative surveys and behavioral rating data with qualitative interviews to capture more profound insights.
 
 - Designed and executed a complete research workflow: study design, participant recruitment, large-scale data collection, statistical analysis, and synthesis of findings into actionable outcomes.
 
