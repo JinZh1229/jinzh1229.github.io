@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m Jin Zhou, a Ph.D. candidate in Computer Science at George Mason University. Advised by **Dr.Songqing Chen**. My research focuses on Human-Computer Interaction (HCI) and the optimization of immersive multimedia systems, with a particular emphasis on ethical AI, user research, and efficient visual computing. 
+I’m Jin Zhou, a Ph.D. candidate in Computer Science at George Mason University, advised by **Dr. Songqing Chen**. 
 
-**I am open to positions as a Research Engineer, Machine Learning Engineer, and UX Researcher.**
+I build scalable and production-oriented machine learning systems for immersive and real-world applications. My work focuses on model compression, inference optimization, and performance engineering to reduce latency, memory usage, and compute cost while maintaining stable output quality. In parallel, I conduct large-scale user research in immersive environments to evaluate system behavior, user perception, and safety. I design and run controlled experiments, analyze quantitative and qualitative data, and translate findings into system improvements. This allows me to connect ML system design with real user impact. I work on transmission-efficient 3D and 360° media systems (e.g., NeRF-based pipelines), engineering real-time inference and bandwidth-aware deployment strategies.
+
+**❗️ I am open to positions as a Research Engineer, Machine Learning Engineer, and UX Researcher.**
 
 🧠 HCI & VR Ethics: Investigate harassment in social VR through AI-driven behavior detection and psychological analysis; conduct large-scale user studies in Unity-based immersive platforms.
 
 🎥 3D Visual Computing & Compression: Enhance 360° video and dynamic 3D scene representation (e.g., NeRF, 360-degree video system) using autoencoder, quantization, perceptual modeling, and transmission-aware techniques.
-
-🔍 Core Interests: Human-computer interaction, user research, understanding neural radiance fields, computer vision, and socially responsible AI systems.
 
 You can find my publication on <a href='https://scholar.google.com/citations?user=cdj_IUEAAAAJ'><strong>Google Scholar</strong></a>:<br><a href='https://scholar.google.com/citations?user=cdj_IUEAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3Dcdj_IUEAAAAJ&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 
@@ -48,7 +48,7 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE MMSP 2025</div><img src='images/nerfcompressor.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**NeRFCompressor: Enhancing Dynamic Scene Representation for Efficient 6-DoF Object Transportation** 
+[**NeRFCompressor: Enhancing Dynamic Scene Representation for Efficient 6-DoF Object Transportation**](https://ieeexplore.ieee.org/abstract/document/11324120)
 
 **Jin Zhou**, Mufeng Zhu, Yao Liu, Songqing Chen 
 
@@ -109,9 +109,9 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 
 [**Dynamic 6‑DoF Volumetric Video Generation: Software Toolkit and Dataset**](https://doi.org/10.1109/MMSP61759.2024.10743552)  
 
-**Mufeng Zhu**, Yuan‑Chun Sun, Na Li, **Jin Zhou**, Songqing Chen, Cheng‑Hsin Hsu, Yao Liu  
+Mufeng Zhu, Yuan‑Chun Sun, Na Li, **Jin Zhou**, Songqing Chen, Cheng‑Hsin Hsu, Yao Liu  
 
-- Released a **Blender-Python toolkit** to generate dynamic 6-DoF volumetric datasets from synthetic 3D assets, compatible with both point-cloud and NeRF-based representations.  
+- Released a Blender-Python toolkit to generate dynamic 6-DoF volumetric datasets from synthetic 3D assets, compatible with both point-cloud and NeRF-based representations.  
 - Constructed a **comprehensive dataset**, including point-cloud sequences and training/testing splits, facilitating fair comparisons across volumetric video models.  
 - Enabled multimedia systems research by delivering an **open-source toolkit and compliant dataset** under asset permissions, supporting benchmarking for practical volumetric streaming: contentReference[oaicite:1]{index=1}.
 
@@ -120,11 +120,17 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 
 
 # 📖 Educations
-- *2019.08 - 2026.05 (Expected)*, Ph.D. in Computer Science, George Mason University, Fairfax, Virginia, United States
-- *2016.01 - 2017.05*, Master in Electrical Engineering, George Washington University, Washington D.C., United States
+- *2019.08 - 2026.08 (Expected)*, Ph.D. in Computer Science, George Mason University, Fairfax, Virginia, United States
+- *2016.01 - 2017.05*, M.S. in Electrical Engineering, George Washington University, Washington D.C., United States
 
 
 # 💻 Professional Experience
+- *2020.05- Present*, Graduate Research Assistant, George Mason University, USA
+  Advised by Dr.Songqing Chen
+  Designed and optimized scalable ML systems for immersive applications, focusing on **model compression and inference optimization** to reduce latency, memory usage, and compute cost.
+  Engineered **compression-aware neural pipelines** (e.g., NeRF-based systems) and built end-to-end training, evaluation, and benchmarking workflows using PyTorch and TensorFlow.
+  Led immersive UXR projects on social VR safety, developing AI-based behavior detection systems and conducting controlled user studies to evaluate system performance and user impact.
+  
 - *2019.09 – Present*, Graduate Teaching Assistant Lead, George Mason University, USA  
   Oversaw and led a team of over 10 teaching assistants across multiple undergraduate programming courses.  
   Coordinated weekly TA training, maintained grading consistency, and facilitated team communication with faculty.  
