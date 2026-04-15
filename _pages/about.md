@@ -34,11 +34,11 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/mipcp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**MipCP: Efficient Neural Representations for Dynamic Scene Reconstruction**
+**DynCodec: Codec-Compatible Compression of Dynamic Neural Scene Representations**(underreview by ACM Multimedia)
 
 **Jin Zhou**, Na Li, Mufeng Zhu, Songqing Chen, Yao Liu 
 
-– Proposed a compression-aware NeRF extension combining CP decomposition and video-codec encoding, achieving significant compression rate with high reconstruction performance.
+– Proposed a compression-aware NeRF extension combining feature factorization and video-codec encoding, achieving significant compression rate with high reconstruction performance.
 – Designed scalable feature representations and integrated deferred shading for high-fidelity dynamic scene rendering.
 – Validated on the Dynamic reconstruction dataset with outstanding visualization performance and noticeable model-size reduction, demonstrating practical deployment on edge devices.
 
