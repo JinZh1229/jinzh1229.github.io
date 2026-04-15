@@ -63,7 +63,8 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/gender.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[**Harassment Isn’t Virtual When It Feels Real: mixed-methods research with users on VR environment**]
+
+**Harassment Isn’t Virtual When It Feels Real: mixed-methods research with users on VR environment**
 - Built and implemented a custom Unity3D-based VR environment along with an interactable rating system on a social VR simulated platform, including real-time behavior logging and survey integration, post-study interview.
 
 - Led a mixed-methods study with **60+ online surveys via Qualitrics** and **46+ participants' user study with post-study interview**, combining quantitative surveys and behavioral rating data with qualitative interviews to capture more profound insights.
