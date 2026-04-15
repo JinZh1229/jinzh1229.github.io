@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m Jin Zhou, a Ph.D. candidate in Computer Science at George Mason University, advised by **Dr. Songqing Chen**. 
+I’m Jin Zhou, a Ph.D. candidate in Computer Science at George Mason University, advised by **Dr. Songqing Chen**(IEEE Fellow). 
 
 I build scalable and production-oriented machine learning systems for immersive and real-world applications. My work focuses on model compression, inference optimization, and performance engineering to reduce latency, memory usage, and compute cost while maintaining stable output quality. In parallel, I conduct large-scale user research in immersive environments to evaluate system behavior, user perception, and safety. I design and run controlled experiments, analyze quantitative and qualitative data, and translate findings into system improvements. This allows me to connect ML system design with real user impact. I work on transmission-efficient 3D and 360° media systems (e.g., NeRF-based pipelines), engineering real-time inference and bandwidth-aware deployment strategies.
 
@@ -34,7 +34,7 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/mipcp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**DynCodec: Codec-Compatible Compression of Dynamic Neural Scene Representations**(underreview by ACM Multimedia)
+**DynCodec: Codec-Compatible Compression of Dynamic Neural Scene Representations**
 
 **Jin Zhou**, Na Li, Mufeng Zhu, Songqing Chen, Yao Liu 
 
