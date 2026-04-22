@@ -31,19 +31,6 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/mipcp.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**DynCodec: Codec-Compatible Compression of Dynamic Neural Scene Representations**
-
-**Jin Zhou**, Na Li, Mufeng Zhu, Songqing Chen, Yao Liu 
-
-– Proposed a compression-aware NeRF extension combining feature factorization and video-codec encoding, achieving significant compression rate with high reconstruction performance.
-– Designed scalable feature representations and integrated deferred shading for high-fidelity dynamic scene rendering.
-– Validated on the Dynamic reconstruction dataset with outstanding visualization performance and noticeable model-size reduction, demonstrating practical deployment on edge devices.
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE MMSP 2025</div><img src='images/nerfcompressor.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
