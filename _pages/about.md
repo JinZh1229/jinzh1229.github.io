@@ -17,11 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m Jin Zhou, a Ph.D. candidate in Computer Science at George Mason University, advised by **Dr. Songqing Chen**(IEEE Fellow). 
+I’m Jin Zhou, a Ph.D. candidate in Computer Science at George Mason University, advised by Prof. Songqing Chen. My research explores how machine learning systems can become both more efficient and more responsive to human needs.
 
-I build scalable and production-oriented machine learning systems for immersive and real-world applications. My work focuses on model compression, inference optimization, and performance engineering to reduce latency, memory usage, and compute cost while maintaining stable output quality. In parallel, I conduct large-scale user research in immersive environments to evaluate system behavior, user perception, and safety. I design and run controlled experiments, analyze quantitative and qualitative data, and translate findings into system improvements. This allows me to connect ML system design with real user impact. I work on transmission-efficient 3D and 360° media systems (e.g., NeRF-based pipelines), engineering real-time inference and bandwidth-aware deployment strategies.
+On the systems side, I develop efficient neural representations for dynamic 3D and immersive content, with research spanning model compression, neural rendering, representation learning, and video coding. On the human-centered side, I build interactive environments and machine learning models to understand human behavior, perception, and safety in immersive systems.
 
-**❗️ I am open to positions as a Research Engineer, Machine Learning Engineer, and UX Researcher.**
+Across these directions, I enjoy taking open-ended research problems from problem formulation and algorithm design to implementation, experimentation, and rigorous evaluation.
+
+**❗️ I am open to positions as a Research Engineer / AI Researcher working across efficient machine learning, neural representations, and human-centered AI.**
 
 🧠 HCI & VR Ethics: Investigate harassment in social VR through AI-driven behavior detection and psychological analysis; conduct large-scale user studies in Unity-based immersive platforms.
 
