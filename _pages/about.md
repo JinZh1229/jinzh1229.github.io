@@ -50,7 +50,7 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ImmerCom 2026</div><img src='images/dyncodec.png' alt="DynCodec" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ImmerCom 2026</div><img src='images/DynCodec.png' alt="DynCodec" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **DynCodec: Codec-Compatible Compression of Dynamic Neural Scene Representations**
