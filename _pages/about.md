@@ -41,11 +41,11 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 
 **Jin Zhou**, Mufeng Zhu, Yao Liu, Songqing Chen 
 
-- Designed NeRFCompressor, a model-aware compression system for dynamic NeRF scenes, reducing model size by up to 34× with <2 dB PSNR degradation.
+- Developed **NeRFCompressor**, a codec-aware framework integrating neural representation compression with video encoding to exploit spatial-temporal redundancy in dynamic 3D scenes.
 
-- Engineered a hybrid pipeline combining tensor decomposition, 8-bit quantization, and H.264/YUV444 video encoding for scalable 6-DoF scene transmission.
+- Designed an end-to-end compression pipeline combining tensor decomposition, quantization, and codec-based encoding for efficient storage and transmission of dynamic 6-DoF content.
 
-- Delivered superior rate-distortion performance over VQ-TensoRF on benchmark datasets, enabling real-time rendering on resource-constrained AR/VR platforms.
+- Demonstrated strong rate-distortion performance while preserving reconstruction quality across benchmark dynamic scenes.
   
 </div>
 </div>
@@ -55,24 +55,26 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 
 **DynCodec: Codec-Compatible Compression of Dynamic Neural Scene Representations**
 
-**Jin Zhou**, ...
+**Jin Zhou**, Na Li, Mufeng Zhu, Songqing Chen, Yao Liu
 
 - Designed **DynCodec**, representing dynamic neural scenes as a shared static reference with factorized temporal residuals to reduce inter-frame redundancy and storage overhead.
+ 
 - Developed a codec-compatible representation for efficient dynamic scene storage and transmission while preserving high-fidelity reconstruction.
+ 
 - Evaluated the approach against dynamic neural rendering baselines across reconstruction quality and representation efficiency.
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/gender.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ISMAR 2026</div><img src='images/gender.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Harassment Isn’t Virtual When It Feels Real: mixed-methods research with users on VR environment**
-- Built and implemented a custom Unity3D-based VR environment along with an interactable rating system on a social VR simulated platform, including real-time behavior logging and survey integration, post-study interview.
+- Designed and led a two-phase mixed-methods investigation of how participant identity, avatar representation, and virtual-agent characteristics shape perception and discomfort during social VR interactions.
 
-- Led a mixed-methods study with **60+ online surveys via Qualitrics** and **46+ participants' user study with post-study interview**, combining quantitative surveys and behavioral rating data with qualitative interviews to capture more profound insights.
+- Built a custom **Unity3D social VR experimental platform** supporting controlled real-time interactions with virtual agents and integrated collection of participant responses.
 
-- Designed and executed a complete research workflow: study design, participant recruitment, large-scale data collection, statistical analysis, and synthesis of findings into actionable outcomes.
+- Applied statistical modeling and interaction analysis alongside semi-structured interviews to characterize how human and virtual identities jointly influence experiences in immersive environments.
 
 </div>
 </div>
@@ -83,26 +85,28 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 
 [**HardenVR: Harassment Detection in Social Virtual Reality**](https://doi.org/10.1109/VR58804.2024.00033)  
 
-**Na Wang**, **Jin Zhou**, Jie Li, Bo Han, Fei Li, Songqing Chen (Equal contribution)
+**Na Wang***, **Jin Zhou***, Jie Li, Bo Han, Fei Li, Songqing Chen (*Equal contribution)
 
-- Designed and implemented a **detection system for harassment behaviors** in social VR using **Transformer-based spatiotemporal models**.
-- Developed a **WebXR-based** multi-user simulation platform and released the SAHARA dataset with labeled 3D behavior logs.
-- Achieved **98.4% detection accuracy** and validated system performance through structured user studies and empirical evaluation.
+- Designed a **Transformer-based behavior detection model** using real social VR interaction data and contributed to model optimization and evaluation.
+- Built a WebXR-based multi-user research environment and behavioral data pipeline for collecting and analyzing 3D interaction sequences.
+- Achieved **98.4% detection accuracy** and validated the system through empirical evaluation and human-subject studies.
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Multimedia 2020</div><img src='images/sae.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Multimedia 2022</div><img src='images/sae.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Exploring Spherical Autoencoder for Spherical Video Content Processing**](https://par.nsf.gov/servlets/purl/10391202)
 
 **Jin Zhou**, Na Li, Yao Liu, Shuochao Yao, Songqing Chen
 
-- Proposed a **spherical CNN autoencoder framework** designed specifically for 360° video, addressing the geometric distortion challenges of spherical content.
-- Introduced two key optimizations—**partial mesh processing** and **compressive sensing**—to improve encoding efficiency while significantly reducing computational cost and preserving perceptual quality.
-- Achieved a **PSNR gain up to 40 dB**, outperforming standard 2D autoencoders by over **260%**, making the method well-suited for real-time immersive video streaming in VR/AR applications.
+- Developed a **spherical CNN autoencoder** for learning efficient representations of 360° visual content while accounting for spherical geometry and projection distortion.
+
+- Introduced partial mesh processing and compressive sensing to reduce computational complexity while preserving reconstruction quality.
+
+- Demonstrated improved representation efficiency over conventional 2D autoencoder baselines for immersive visual content.
 
 </div>
 </div>
@@ -115,31 +119,30 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 
 Mufeng Zhu, Yuan‑Chun Sun, Na Li, **Jin Zhou**, Songqing Chen, Cheng‑Hsin Hsu, Yao Liu  
 
-- Released a Blender-Python toolkit to generate dynamic 6-DoF volumetric datasets from synthetic 3D assets, compatible with both point-cloud and NeRF-based representations.  
-- Constructed a **comprehensive dataset**, including point-cloud sequences and training/testing splits, facilitating fair comparisons across volumetric video models.  
-- Enabled multimedia systems research by delivering an **open-source toolkit and compliant dataset** under asset permissions, supporting benchmarking for practical volumetric streaming: contentReference[oaicite:1]{index=1}.
-
+- Developed a Blender-Python toolkit for generating dynamic 6-DoF volumetric datasets from synthetic 3D assets, supporting point-cloud and NeRF-based representations.
+- Contributed to an open-source dataset and benchmarking pipeline for evaluating volumetric video generation and streaming methods.
+- 
 </div>
 </div>
 
 
 # 📖 Educations
-- *2019.08 - 2026.08 (Expected)*, Ph.D. in Computer Science, George Mason University, Fairfax, Virginia, United States
+- *2019.08 - 2026.12 (Expected)*, Ph.D. in Computer Science, George Mason University, Fairfax, Virginia, United States
 - *2016.01 - 2017.05*, M.S. in Electrical Engineering, George Washington University, Washington D.C., United States
 
 
 # 💻 Professional Experience
-- *2020.05- Present*, Graduate Research Assistant, George Mason University, USA
-  Advised by Dr.Songqing Chen
-  Designed and optimized scalable ML systems for immersive applications, focusing on **model compression and inference optimization** to reduce latency, memory usage, and compute cost.
-  Engineered **compression-aware neural pipelines** (e.g., NeRF-based systems) and built end-to-end training, evaluation, and benchmarking workflows using PyTorch and TensorFlow.
-  Led immersive UXR projects on social VR safety, developing AI-based behavior detection systems and conducting controlled user studies to evaluate system performance and user impact.
+- *2020.05 – Present*, **Graduate Research Assistant**, George Mason University  
+  Advised by Prof. Songqing Chen
   
-- *2019.09 – Present*, Graduate Teaching Assistant Lead, George Mason University, USA  
-  Oversaw and led a team of over 10 teaching assistants across multiple undergraduate programming courses.  
-  Coordinated weekly TA training, maintained grading consistency, and facilitated team communication with faculty.  
-  Designed and deployed Java-based lab materials and tutorials focused on data structures, algorithms, and software design.  
-  Acted as the primary point of contact for curriculum support and student feedback in large-scale CS courses (100+ students).
+  Conduct research across **machine learning, efficient neural representations, immersive computing, and human-centered AI**.
+  
+  Develop neural representation and compression methods for dynamic 3D and immersive content using PyTorch and TensorFlow, including end-to-end training, evaluation, and benchmarking pipelines.
+  
+  Build interactive VR research systems and machine learning models for studying human behavior, perception, and safety in immersive environments.
+  
+- *2019.09 – Present*, **Graduate Teaching Assistant Lead**, George Mason University  
+  Lead and mentor a team of teaching assistants for undergraduate computer science courses, developing Java-based materials covering data structures, algorithms, and software design.
 
 - *2017.07 – 2019.03*, Data Engineer, Noetics Global Technologies, USA  
   Collaborated with technical specialists and engineering teams to design a distributed enterprise application with an optimized MySQL backend.  
