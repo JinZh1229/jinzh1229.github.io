@@ -25,9 +25,9 @@ Across these directions, I enjoy taking open-ended research problems from proble
 
 **❗️ I am open to positions as a Research Engineer / AI Researcher working across efficient machine learning, neural representations, and human-centered AI.**
 
-🧠 HCI & VR Ethics: Investigate harassment in social VR through AI-driven behavior detection and psychological analysis; conduct large-scale user studies in Unity-based immersive platforms.
+🧠 **Efficient AI & Neural Representations** Developing efficient representations for dynamic 3D and immersive content through model compression, neural rendering, representation learning, and codec-aware optimization.
 
-🎥 3D Visual Computing & Compression: Enhance 360° video and dynamic 3D scene representation (e.g., NeRF, 360-degree video system) using autoencoder, quantization, perceptual modeling, and transmission-aware techniques.
+🎥 **Human-Centered AI & Interaction** Building intelligent interactive systems and conducting controlled human studies to understand behavior, perception, and safety in immersive and AI-mediated environments.
 
 You can find my publication on <a href='https://scholar.google.com/citations?user=cdj_IUEAAAAJ'><strong>Google Scholar</strong></a>:<br><a href='https://scholar.google.com/citations?user=cdj_IUEAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3Dcdj_IUEAAAAJ&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 
@@ -127,7 +127,7 @@ Mufeng Zhu, Yuan‑Chun Sun, Na Li, **Jin Zhou**, Songqing Chen, Cheng‑Hsin Hs
   Designed and deployed Java-based lab materials and tutorials focused on data structures, algorithms, and software design.  
   Acted as the primary point of contact for curriculum support and student feedback in large-scale CS courses (100+ students).
 
-- *2017.07 – 2019.03*, Data Architect / Engineer, Noetics Global Technologies, USA  
+- *2017.07 – 2019.03*, Data Engineer, Noetics Global Technologies, USA  
   Collaborated with technical specialists and engineering teams to design a distributed enterprise application with an optimized MySQL backend.  
   Crafted advanced SQL queries and restructured databases to support large-scale data analysis and extract business-critical insights.  
   Managed a team of five interns, overseeing project timelines and mentoring on foundational data engineering tasks.
