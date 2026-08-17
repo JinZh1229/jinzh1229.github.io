@@ -23,11 +23,11 @@ On the systems side, I develop efficient neural representations for dynamic 3D a
 
 Across these directions, I enjoy taking open-ended research problems from problem formulation and algorithm design to implementation, experimentation, and rigorous evaluation.
 
-**❗️ I am open to positions as a Research Engineer / AI Researcher working across efficient machine learning, neural representations, and human-centered AI.**
+**I am currently exploring Research Engineer and AI Research Scientist opportunities in efficient machine learning, neural representations, and human-centered AI.**
 
-🧠 **Efficient AI & Neural Representations** Developing efficient representations for dynamic 3D and immersive content through model compression, neural rendering, representation learning, and codec-aware optimization.
+🧠 **Efficient AI & Neural Representations** — Developing efficient representations for dynamic 3D and immersive content through model compression, neural rendering, representation learning, and codec-aware optimization.
 
-🎥 **Human-Centered AI & Interaction** Building intelligent interactive systems and conducting controlled human studies to understand behavior, perception, and safety in immersive and AI-mediated environments.
+🤝 **Human-Centered AI & Interaction** — Building intelligent interactive systems and conducting controlled human studies to understand behavior, perception, and safety in immersive and AI-mediated environments.
 
 You can find my publication on <a href='https://scholar.google.com/citations?user=cdj_IUEAAAAJ'><strong>Google Scholar</strong></a>:<br><a href='https://scholar.google.com/citations?user=cdj_IUEAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3Dcdj_IUEAAAAJ&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 
@@ -47,6 +47,20 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 
 - Delivered superior rate-distortion performance over VQ-TensoRF on benchmark datasets, enabling real-time rendering on resource-constrained AR/VR platforms.
   
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ImmerCom 2026</div><img src='images/dyncodec.png' alt="DynCodec" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**DynCodec: Codec-Compatible Compression of Dynamic Neural Scene Representations**
+
+**Jin Zhou**, ...
+
+- Designed **DynCodec**, representing dynamic neural scenes as a shared static reference with factorized temporal residuals to reduce inter-frame redundancy and storage overhead.
+- Developed a codec-compatible representation for efficient dynamic scene storage and transmission while preserving high-fidelity reconstruction.
+- Evaluated the approach against dynamic neural rendering baselines across reconstruction quality and representation efficiency.
+
 </div>
 </div>
 
