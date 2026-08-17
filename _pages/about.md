@@ -69,12 +69,15 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ISMAR 2026</div><img src='images/gender.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Harassment Isn’t Virtual When It Feels Real: mixed-methods research with users on VR environment**
-- Designed and led a two-phase mixed-methods investigation of how participant identity, avatar representation, and virtual-agent characteristics shape perception and discomfort during social VR interactions.
+**Harassment Isn’t Virtual When It Feels Real: Understanding Emotional Impact of Gendered Embodiment in VR**
 
-- Built a custom **Unity3D social VR experimental platform** supporting controlled real-time interactions with virtual agents and integrated collection of participant responses.
+**Jin Zhou**, Jie Li, Abdallah El Ali, Bo Han, Songqing Chen
 
-- Applied statistical modeling and interaction analysis alongside semi-structured interviews to characterize how human and virtual identities jointly influence experiences in immersive environments.
+- Designed and implemented a controlled social VR research platform in Unity/Ubiq to study how participant, avatar, and virtual harasser gender shape users' responses to harassment.
+
+- Led a mixed-methods research pipeline combining a Qualtrics survey, controlled VR experiments, behavioral ratings, and semi-structured interviews.
+
+- Modeled ordinal discomfort responses using cumulative link mixed-effects models (CLMM) and identified significant effects of gendered embodiment and harasser identity on perceived discomfort.
 
 </div>
 </div>
