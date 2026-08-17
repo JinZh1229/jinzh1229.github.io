@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jin Zhou"
-description              : "I develop machine learning systems at the intersection of efficient neural representations and human-centered AI. My research spans model compression, neural rendering, human behavior modeling, and interactive AI systems, with a focus on translating research ideas into efficient, rigorously evaluated systems. **Research Engineer · AI Research Scientist · Machine Learning Engineer**"
+description              : "Ph.D. researcher in efficient machine learning, neural representations, human-centered AI, and interactive intelligent systems."
 #repository               : "SamanthaZH/samanthazh.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,26 +23,26 @@ google_scholar_stats_use_cdn : false
 author:
   name             : "Jin Zhou"
   avatar           : "images/samantha.png"
-  bio              : "Ph.D. Candidate in Computer Science at George Mason University"
+  bio              : "Ph.D. Candidate | AI Research · Research Engineering · Human-Centered AI"
   location         : "Redmond, Washington, United States"
-  employer         :
-  pubmed           : 
+  #employer         :
+  #pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=cdj_IUEAAAAJ"
   email            : "jinzhou2019@hotmail.com"
   #researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  #github           : # e.g., "github username"
-  google_plus      :
-  keybase          :
-  instagram        :
+  #uri              :
+  #bitbucket        :
+  #codepen          :
+  #dribbble         :
+  #flickr           :
+  #facebook         :
+  #foursquare       :
+  github            : SamanthaZH
+  #google_plus      :
+  #keybase          :
+  #instagram        :
   #impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
+  #lastfm           :
   linkedin         : "https://www.linkedin.com/in/jin-zhou-20151229/"
   #dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0000-0003-1561-1448"
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
