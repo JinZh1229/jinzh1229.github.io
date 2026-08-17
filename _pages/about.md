@@ -19,7 +19,7 @@ redirect_from:
 
 I’m Jin Zhou, a Ph.D. candidate in Computer Science at George Mason University, advised by Prof. Songqing Chen. My research explores how machine learning systems can become both more efficient and more responsive to human needs.
 
-On the systems side, I develop efficient neural representations for dynamic 3D and immersive content, with research spanning model compression, neural rendering, representation learning, and video coding. On the human-centered side, I build interactive environments and machine learning models to understand human behavior, perception, and safety in immersive systems.
+On the systems side, I develop efficient neural representations for dynamic 3D and immersive content, with research spanning model compression, neural rendering, representation learning, and video coding. On the human-centered side, I build interactive systems and machine learning models to understand human behavior, perception, and safety in immersive systems.
 
 Across these directions, I enjoy taking open-ended research problems from problem formulation and algorithm design to implementation, experimentation, and rigorous evaluation.
 
