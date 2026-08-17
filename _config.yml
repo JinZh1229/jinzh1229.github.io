@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jin Zhou"
-description              : "Research focused on ethical AI, immersive technologies, and efficient visual computing, including social VR behavior detection and transmission-efficient 3D/360° media systems. Experienced in **inference optimization and performance engineering** for video and neural rendering systems, with a strong focus on scalability and deployment efficiency. Actively seeking full-time or internship opportunities in **Research Engineer, Machine Learning Engineer, or UX Researcher**."
+description              : "I develop machine learning systems at the intersection of efficient neural representations and human-centered AI. My research spans model compression, neural rendering, human behavior modeling, and interactive AI systems, with a focus on translating research ideas into efficient, rigorously evaluated systems. **Research Engineer · AI Research Scientist · Machine Learning Engineer**"
 #repository               : "SamanthaZH/samanthazh.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,8 +23,8 @@ google_scholar_stats_use_cdn : false
 author:
   name             : "Jin Zhou"
   avatar           : "images/samantha.png"
-  bio              : "Ph.D. Candidate @ George Mason University"
-  location         : "Fairfax, Virginia, United States"
+  bio              : "Ph.D. Candidate in Computer Science at George Mason University"
+  location         : "Redmond, Washington, United States"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=cdj_IUEAAAAJ"
