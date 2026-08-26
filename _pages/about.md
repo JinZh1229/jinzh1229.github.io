@@ -23,7 +23,7 @@ On the systems side, I develop efficient neural representations for dynamic 3D a
 
 Across these directions, I enjoy taking open-ended research problems from problem formulation and algorithm design to implementation, experimentation, and rigorous evaluation.
 
-**I am currently exploring Research Engineer and AI Research Scientist opportunities in efficient machine learning, neural representations, and human-centered AI.**
+**I am currently exploring Research Engineer and AI Research Scientist opportunities in efficient machine learning, neural representations, and human-centered AI. Actively seeking a full-time position**
 
 🧠 **Efficient AI & Neural Representations** — Developing efficient representations for dynamic 3D and immersive content through model compression, neural rendering, representation learning, and codec-aware optimization.
 
