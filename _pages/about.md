@@ -38,6 +38,8 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 <div class='paper-box-text' markdown="1">
 
 [**NeRFCompressor: Enhancing Dynamic Scene Representation for Efficient 6-DoF Object Transportation**](https://ieeexplore.ieee.org/abstract/document/11324120)
+[[PDF]]('images/NeRFCompressor_MMSP25.pdf')
+
 
 **Jin Zhou**, Mufeng Zhu, Yao Liu, Songqing Chen 
 
