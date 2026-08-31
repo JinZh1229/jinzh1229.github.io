@@ -58,6 +58,7 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 **DynCodec: Codec-Compatible Compression of Dynamic Neural Scene Representations**
 
 **Jin Zhou**, Na Li, Mufeng Zhu, Songqing Chen, Yao Liu
+[[PDF]]('images/DynCodec.pdf')
 
 - Designed **DynCodec**, representing dynamic neural scenes as a shared static reference with factorized temporal residuals to reduce inter-frame redundancy and storage overhead.
  
@@ -74,6 +75,7 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 **Harassment Isn’t Virtual When It Feels Real: Understanding Emotional Impact of Gendered Embodiment in VR**
 
 **Jin Zhou**, Jie Li, Abdallah El Ali, Bo Han, Songqing Chen
+[[PDF]]('images/ismar2025_Jin.pdf')
 
 - Designed and implemented a controlled social VR research platform in Unity/Ubiq to study how participant, avatar, and virtual harasser gender shape users' responses to harassment.
 
@@ -91,6 +93,7 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 [**HardenVR: Harassment Detection in Social Virtual Reality**](https://doi.org/10.1109/VR58804.2024.00033)  
 
 **Na Wang***, **Jin Zhou***, Jie Li, Bo Han, Fei Li, Songqing Chen (*Equal contribution)
+[[PDF]]('images/hardenvr.pdf')
 
 - Designed a **Transformer-based behavior detection model** using real social VR interaction data and contributed to model optimization and evaluation.
 - Built a WebXR-based multi-user research environment and behavioral data pipeline for collecting and analyzing 3D interaction sequences.
@@ -106,7 +109,7 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 [**Exploring Spherical Autoencoder for Spherical Video Content Processing**](https://par.nsf.gov/servlets/purl/10391202)
 
 **Jin Zhou**, Na Li, Yao Liu, Shuochao Yao, Songqing Chen
-
+[[PDF]]('images/sae.pdf')
 - Developed a **spherical CNN autoencoder** for learning efficient representations of 360° visual content while accounting for spherical geometry and projection distortion.
 
 - Introduced partial mesh processing and compressive sensing to reduce computational complexity while preserving reconstruction quality.
