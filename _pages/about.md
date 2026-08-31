@@ -56,6 +56,7 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 
 **DynCodec: Codec-Compatible Compression of Dynamic Neural Scene Representations**
 [[PDF]](images/DynCodec.pdf)
+
 **Jin Zhou**, Na Li, Mufeng Zhu, Songqing Chen, Yao Liu
 
 
@@ -73,6 +74,7 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 
 **Harassment Isn’t Virtual When It Feels Real: Understanding Emotional Impact of Gendered Embodiment in VR**
 [[PDF]](images/ismar2025_Jin.pdf)
+
 **Jin Zhou**, Jie Li, Abdallah El Ali, Bo Han, Songqing Chen
 
 
@@ -91,6 +93,7 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 
 [**HardenVR: Harassment Detection in Social Virtual Reality**](https://doi.org/10.1109/VR58804.2024.00033)  
 [[PDF]](images/hardenvr.pdf)
+
 **Na Wang***, **Jin Zhou***, Jie Li, Bo Han, Fei Li, Songqing Chen (*Equal contribution)
 
 
@@ -107,6 +110,7 @@ You can find my publication on <a href='https://scholar.google.com/citations?use
 
 [**Exploring Spherical Autoencoder for Spherical Video Content Processing**](https://par.nsf.gov/servlets/purl/10391202)
 <a href="{{ '/images/sae.pdf' | relative_url }}" target="_blank">[PDF]</a>
+
 **Jin Zhou**, Na Li, Yao Liu, Shuochao Yao, Songqing Chen
 
 - Developed a **spherical CNN autoencoder** for learning efficient representations of 360° visual content while accounting for spherical geometry and projection distortion.
@@ -128,7 +132,7 @@ Mufeng Zhu, Yuan‑Chun Sun, Na Li, **Jin Zhou**, Songqing Chen, Cheng‑Hsin Hs
 
 - Developed a Blender-Python toolkit for generating dynamic 6-DoF volumetric datasets from synthetic 3D assets, supporting point-cloud and NeRF-based representations.
 - Contributed to an open-source dataset and benchmarking pipeline for evaluating volumetric video generation and streaming methods.
-- 
+  
 </div>
 </div>
 
