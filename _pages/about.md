@@ -31,8 +31,12 @@ Across these directions, I enjoy taking open-ended research problems from proble
 
 You can find my publication on <a href='https://scholar.google.com/citations?user=cdj_IUEAAAAJ'><strong>Google Scholar</strong></a>:<br><a href='https://scholar.google.com/citations?user=cdj_IUEAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3Dcdj_IUEAAAAJ&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 
+# 📰 News
 
-# 📝 Publications 
+- *2026.08*, Our paper **"DynCodec: Codec-Compatible Compression of Dynamic Neural Scene Representations"** has been accepted to **ACM ImmerCom 2026**! 🎉
+- *2026.06*, Our paper **"Harassment Isn't Virtual When It Feels Real"** has been accepted to **IEEE ISMAR 2026**! 🎉
+
+# 📝 Project Experience 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE MMSP 2025</div><img src='images/nerfcompressor.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
